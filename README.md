@@ -8,12 +8,12 @@ The core uses the type inference solver from [TypeFighter](https://github.com/Sc
 
 ## Key features of tha language:
 
-> A **Complete** Language
-> Focus on **Smaller Programs**
-> **Robust** through static typing
-> Well-suited for **top-notch editor support**
-> It's **Friendly to Beginners** (and anyone else, too :) 
-> **AI likes it**, too.
+- A **Complete** Language
+- Focus on **Smaller Programs**
+- **Robust** through static typing
+- Well-suited for **top-notch editor support**
+- It's **Friendly to Beginners** (and anyone else, too :) 
+- **AI likes it**, too.
 
 **Feels like python, robust like Rust**
 
