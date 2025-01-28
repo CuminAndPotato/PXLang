@@ -10,7 +10,7 @@ The core uses the type inference solver from [TypeFighter](https://github.com/Sc
 
 - A **Complete** Language
 - Focus on **Smaller Programs**
-- **Robust** through static typing
+- **Robust** through static typing, **Focus on Structures, not Names**
 - Well-suited for **top-notch editor support**
 - It's **Friendly to Beginners** (and anyone else, too :) 
 - **AI likes it**, too.
